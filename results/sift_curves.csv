@@ -1,0 +1,551 @@
+method,seed,config,epoch,test_mse
+mini-batch k-means,0,897c986930,1,49750.34419398452
+mini-batch k-means,0,897c986930,2,49335.92395477967
+mini-batch k-means,0,897c986930,3,49192.66625957868
+mini-batch k-means,0,897c986930,4,49114.68666752227
+mini-batch k-means,0,897c986930,5,49067.60280120955
+mini-batch k-means,0,897c986930,6,49036.01059633467
+mini-batch k-means,0,897c986930,7,49012.01121818495
+mini-batch k-means,0,897c986930,8,48993.756507270744
+mini-batch k-means,0,897c986930,9,48978.91985191397
+mini-batch k-means,0,897c986930,10,48966.99056654603
+mini-batch k-means,1,897c986930,1,49807.06397269984
+mini-batch k-means,1,897c986930,2,49449.97548281449
+mini-batch k-means,1,897c986930,3,49324.22404755053
+mini-batch k-means,1,897c986930,4,49259.82452542996
+mini-batch k-means,1,897c986930,5,49217.77934285881
+mini-batch k-means,1,897c986930,6,49189.834538687726
+mini-batch k-means,1,897c986930,7,49169.6220941029
+mini-batch k-means,1,897c986930,8,49152.71923246606
+mini-batch k-means,1,897c986930,9,49139.274120660586
+mini-batch k-means,1,897c986930,10,49127.000787499834
+mini-batch k-means,2,897c986930,1,49801.37515728427
+mini-batch k-means,2,897c986930,2,49442.91834552717
+mini-batch k-means,2,897c986930,3,49319.322780495466
+mini-batch k-means,2,897c986930,4,49252.41475008914
+mini-batch k-means,2,897c986930,5,49210.93641731049
+mini-batch k-means,2,897c986930,6,49181.070950675865
+mini-batch k-means,2,897c986930,7,49158.232524394705
+mini-batch k-means,2,897c986930,8,49141.21492358264
+mini-batch k-means,2,897c986930,9,49127.81785133075
+mini-batch k-means,2,897c986930,10,49116.417040654196
+mini-batch k-means,3,897c986930,1,49729.37984108083
+mini-batch k-means,3,897c986930,2,49383.48465851871
+mini-batch k-means,3,897c986930,3,49260.12186227048
+mini-batch k-means,3,897c986930,4,49196.05492509046
+mini-batch k-means,3,897c986930,5,49157.61058062059
+mini-batch k-means,3,897c986930,6,49130.99562733992
+mini-batch k-means,3,897c986930,7,49111.61431573409
+mini-batch k-means,3,897c986930,8,49096.26667479209
+mini-batch k-means,3,897c986930,9,49084.16730826917
+mini-batch k-means,3,897c986930,10,49074.111376983965
+mini-batch k-means,4,897c986930,1,49741.96330785588
+mini-batch k-means,4,897c986930,2,49374.46930613736
+mini-batch k-means,4,897c986930,3,49246.202582578706
+mini-batch k-means,4,897c986930,4,49181.659906767025
+mini-batch k-means,4,897c986930,5,49143.08235707142
+mini-batch k-means,4,897c986930,6,49114.922200288456
+mini-batch k-means,4,897c986930,7,49092.01603724878
+mini-batch k-means,4,897c986930,8,49075.25202462331
+mini-batch k-means,4,897c986930,9,49061.1771719987
+mini-batch k-means,4,897c986930,10,49049.868690034986
+e-means,0,c6373250d3,1,50286.50926926662
+e-means,0,c6373250d3,2,49875.908115472295
+e-means,0,c6373250d3,3,49527.401919941614
+e-means,0,c6373250d3,4,49226.036254592276
+e-means,0,c6373250d3,5,48923.04715468858
+e-means,0,c6373250d3,6,48713.29932145171
+e-means,0,c6373250d3,7,48601.61335790133
+e-means,0,c6373250d3,8,48560.77582553849
+e-means,0,c6373250d3,9,48549.470218901835
+e-means,0,c6373250d3,10,48544.58346515221
+e-means,1,c6373250d3,1,50390.61278422793
+e-means,1,c6373250d3,2,50041.844239809725
+e-means,1,c6373250d3,3,49666.18836781293
+e-means,1,c6373250d3,4,49281.07130919899
+e-means,1,c6373250d3,5,49002.19597175899
+e-means,1,c6373250d3,6,48825.74524934363
+e-means,1,c6373250d3,7,48699.13860723629
+e-means,1,c6373250d3,8,48660.585048174056
+e-means,1,c6373250d3,9,48648.690847234604
+e-means,1,c6373250d3,10,48645.45859770375
+e-means,2,c6373250d3,1,50276.334282849166
+e-means,2,c6373250d3,2,49827.8787969939
+e-means,2,c6373250d3,3,49514.558847462096
+e-means,2,c6373250d3,4,49198.39310495933
+e-means,2,c6373250d3,5,48976.7174545812
+e-means,2,c6373250d3,6,48764.07859795223
+e-means,2,c6373250d3,7,48660.467859699726
+e-means,2,c6373250d3,8,48617.590432160476
+e-means,2,c6373250d3,9,48604.49084714022
+e-means,2,c6373250d3,10,48602.43441593028
+e-means,3,c6373250d3,1,50292.0193276183
+e-means,3,c6373250d3,2,49876.42907393743
+e-means,3,c6373250d3,3,49583.34080638085
+e-means,3,c6373250d3,4,49251.28358744894
+e-means,3,c6373250d3,5,48965.41326278162
+e-means,3,c6373250d3,6,48830.23348675964
+e-means,3,c6373250d3,7,48707.89938745712
+e-means,3,c6373250d3,8,48663.102044086554
+e-means,3,c6373250d3,9,48653.739413170384
+e-means,3,c6373250d3,10,48654.060937167385
+e-means,4,c6373250d3,1,50219.67651352604
+e-means,4,c6373250d3,2,49856.18893679205
+e-means,4,c6373250d3,3,49490.170857269026
+e-means,4,c6373250d3,4,49221.394759856244
+e-means,4,c6373250d3,5,48979.96592979139
+e-means,4,c6373250d3,6,48728.29648942848
+e-means,4,c6373250d3,7,48627.95769052179
+e-means,4,c6373250d3,8,48596.25728679899
+e-means,4,c6373250d3,9,48585.224122065505
+e-means,4,c6373250d3,10,48585.004666485016
+centroid EMA,0,df2570d31b,1,50260.44847996974
+centroid EMA,0,df2570d31b,2,49895.947682369624
+centroid EMA,0,df2570d31b,3,49688.716916963574
+centroid EMA,0,df2570d31b,4,49356.05148966348
+centroid EMA,0,df2570d31b,5,49035.24584641352
+centroid EMA,0,df2570d31b,6,48806.07324045635
+centroid EMA,0,df2570d31b,7,48702.98068415801
+centroid EMA,0,df2570d31b,8,48654.73907496375
+centroid EMA,0,df2570d31b,9,48637.75520614427
+centroid EMA,0,df2570d31b,10,48630.47993985905
+centroid EMA,1,df2570d31b,1,50420.47498618142
+centroid EMA,1,df2570d31b,2,50021.40158260737
+centroid EMA,1,df2570d31b,3,49624.71687779729
+centroid EMA,1,df2570d31b,4,49407.07595623897
+centroid EMA,1,df2570d31b,5,49155.13674246403
+centroid EMA,1,df2570d31b,6,48922.15859547099
+centroid EMA,1,df2570d31b,7,48768.68030753793
+centroid EMA,1,df2570d31b,8,48732.664103721094
+centroid EMA,1,df2570d31b,9,48717.19834225382
+centroid EMA,1,df2570d31b,10,48707.82670856818
+centroid EMA,2,df2570d31b,1,50303.798122596185
+centroid EMA,2,df2570d31b,2,49882.06816496719
+centroid EMA,2,df2570d31b,3,49591.15954341512
+centroid EMA,2,df2570d31b,4,49329.44824480462
+centroid EMA,2,df2570d31b,5,49018.07285692219
+centroid EMA,2,df2570d31b,6,48818.16328219489
+centroid EMA,2,df2570d31b,7,48686.28419539196
+centroid EMA,2,df2570d31b,8,48626.9889081521
+centroid EMA,2,df2570d31b,9,48613.43006964922
+centroid EMA,2,df2570d31b,10,48606.48025258659
+centroid EMA,3,df2570d31b,1,50331.79383171884
+centroid EMA,3,df2570d31b,2,49960.3678604731
+centroid EMA,3,df2570d31b,3,49625.25663368579
+centroid EMA,3,df2570d31b,4,49342.85600379925
+centroid EMA,3,df2570d31b,5,49017.48641370018
+centroid EMA,3,df2570d31b,6,48824.97222791573
+centroid EMA,3,df2570d31b,7,48650.00055994893
+centroid EMA,3,df2570d31b,8,48587.598117712165
+centroid EMA,3,df2570d31b,9,48559.1664707489
+centroid EMA,3,df2570d31b,10,48552.67977394502
+centroid EMA,4,df2570d31b,1,50262.63454252577
+centroid EMA,4,df2570d31b,2,49944.92870275812
+centroid EMA,4,df2570d31b,3,49592.153059503486
+centroid EMA,4,df2570d31b,4,49297.694647502205
+centroid EMA,4,df2570d31b,5,49033.295736757114
+centroid EMA,4,df2570d31b,6,48814.56688716059
+centroid EMA,4,df2570d31b,7,48689.49527455697
+centroid EMA,4,df2570d31b,8,48642.05495027812
+centroid EMA,4,df2570d31b,9,48631.58581380772
+centroid EMA,4,df2570d31b,10,48627.02971582389
+centroid EMA+,0,78e663b505,1,49971.890538888976
+centroid EMA+,0,78e663b505,2,49577.27520624866
+centroid EMA+,0,78e663b505,3,49309.66747653684
+centroid EMA+,0,78e663b505,4,49130.02751872621
+centroid EMA+,0,78e663b505,5,48924.08126853935
+centroid EMA+,0,78e663b505,6,48757.26297885027
+centroid EMA+,0,78e663b505,7,48662.20608140618
+centroid EMA+,0,78e663b505,8,48629.885414336684
+centroid EMA+,0,78e663b505,9,48624.509068575375
+centroid EMA+,0,78e663b505,10,48624.15359730104
+centroid EMA+,1,78e663b505,1,50154.58055665478
+centroid EMA+,1,78e663b505,2,49738.13256017657
+centroid EMA+,1,78e663b505,3,49427.91346483203
+centroid EMA+,1,78e663b505,4,49209.737364170316
+centroid EMA+,1,78e663b505,5,49010.88648934311
+centroid EMA+,1,78e663b505,6,48859.282868565635
+centroid EMA+,1,78e663b505,7,48743.46730492821
+centroid EMA+,1,78e663b505,8,48696.058907598876
+centroid EMA+,1,78e663b505,9,48688.775120215156
+centroid EMA+,1,78e663b505,10,48690.50074559547
+centroid EMA+,2,78e663b505,1,50063.00087013786
+centroid EMA+,2,78e663b505,2,49621.686972165975
+centroid EMA+,2,78e663b505,3,49363.72188336574
+centroid EMA+,2,78e663b505,4,49183.087399061755
+centroid EMA+,2,78e663b505,5,49018.24087679734
+centroid EMA+,2,78e663b505,6,48843.5795098325
+centroid EMA+,2,78e663b505,7,48749.00610689386
+centroid EMA+,2,78e663b505,8,48704.516625783515
+centroid EMA+,2,78e663b505,9,48691.14882132855
+centroid EMA+,2,78e663b505,10,48690.12135300341
+centroid EMA+,3,78e663b505,1,50045.3035337274
+centroid EMA+,3,78e663b505,2,49664.176718009876
+centroid EMA+,3,78e663b505,3,49355.98393082512
+centroid EMA+,3,78e663b505,4,49168.20635011178
+centroid EMA+,3,78e663b505,5,48950.076787944505
+centroid EMA+,3,78e663b505,6,48783.53588833883
+centroid EMA+,3,78e663b505,7,48708.175254974834
+centroid EMA+,3,78e663b505,8,48674.101986024645
+centroid EMA+,3,78e663b505,9,48669.40176377214
+centroid EMA+,3,78e663b505,10,48666.591687873995
+centroid EMA+,4,78e663b505,1,50035.83059934159
+centroid EMA+,4,78e663b505,2,49637.19090544216
+centroid EMA+,4,78e663b505,3,49437.065994884375
+centroid EMA+,4,78e663b505,4,49173.308166320545
+centroid EMA+,4,78e663b505,5,48973.413897734375
+centroid EMA+,4,78e663b505,6,48809.626788591384
+centroid EMA+,4,78e663b505,7,48718.68671361299
+centroid EMA+,4,78e663b505,8,48668.10512633022
+centroid EMA+,4,78e663b505,9,48657.07137679154
+centroid EMA+,4,78e663b505,10,48657.05201110797
+centroid EMA++,0,bfa51e1fd2,1,49893.325363976866
+centroid EMA++,0,bfa51e1fd2,2,49575.80633891616
+centroid EMA++,0,bfa51e1fd2,3,49398.13303686559
+centroid EMA++,0,bfa51e1fd2,4,49194.13455035844
+centroid EMA++,0,bfa51e1fd2,5,49004.797950508895
+centroid EMA++,0,bfa51e1fd2,6,48850.650461764315
+centroid EMA++,0,bfa51e1fd2,7,48738.45815725796
+centroid EMA++,0,bfa51e1fd2,8,48704.02974757705
+centroid EMA++,0,bfa51e1fd2,9,48691.68868699738
+centroid EMA++,0,bfa51e1fd2,10,48688.56988978388
+centroid EMA++,1,bfa51e1fd2,1,50063.48939873033
+centroid EMA++,1,bfa51e1fd2,2,49656.80778705891
+centroid EMA++,1,bfa51e1fd2,3,49410.009469667806
+centroid EMA++,1,bfa51e1fd2,4,49172.5491850885
+centroid EMA++,1,bfa51e1fd2,5,49006.07726474948
+centroid EMA++,1,bfa51e1fd2,6,48808.47592791465
+centroid EMA++,1,bfa51e1fd2,7,48695.73901749198
+centroid EMA++,1,bfa51e1fd2,8,48666.51933043524
+centroid EMA++,1,bfa51e1fd2,9,48657.50104154942
+centroid EMA++,1,bfa51e1fd2,10,48657.53240346369
+centroid EMA++,2,bfa51e1fd2,1,50051.422709323844
+centroid EMA++,2,bfa51e1fd2,2,49689.27479745241
+centroid EMA++,2,bfa51e1fd2,3,49418.80771311413
+centroid EMA++,2,bfa51e1fd2,4,49203.6509202546
+centroid EMA++,2,bfa51e1fd2,5,48978.75294779527
+centroid EMA++,2,bfa51e1fd2,6,48853.92698616265
+centroid EMA++,2,bfa51e1fd2,7,48731.712722012046
+centroid EMA++,2,bfa51e1fd2,8,48698.4020312572
+centroid EMA++,2,bfa51e1fd2,9,48688.97984789614
+centroid EMA++,2,bfa51e1fd2,10,48690.293478296306
+centroid EMA++,3,bfa51e1fd2,1,49975.80804062705
+centroid EMA++,3,bfa51e1fd2,2,49661.78504247455
+centroid EMA++,3,bfa51e1fd2,3,49406.747137553655
+centroid EMA++,3,bfa51e1fd2,4,49166.71416817866
+centroid EMA++,3,bfa51e1fd2,5,48909.29932888138
+centroid EMA++,3,bfa51e1fd2,6,48772.79410834143
+centroid EMA++,3,bfa51e1fd2,7,48670.32715223552
+centroid EMA++,3,bfa51e1fd2,8,48635.117463247334
+centroid EMA++,3,bfa51e1fd2,9,48626.520236797645
+centroid EMA++,3,bfa51e1fd2,10,48628.821549315224
+centroid EMA++,4,bfa51e1fd2,1,49923.653593528266
+centroid EMA++,4,bfa51e1fd2,2,49601.971139557405
+centroid EMA++,4,bfa51e1fd2,3,49348.12128060947
+centroid EMA++,4,bfa51e1fd2,4,49114.225896896285
+centroid EMA++,4,bfa51e1fd2,5,48899.724259881565
+centroid EMA++,4,bfa51e1fd2,6,48729.471015191695
+centroid EMA++,4,bfa51e1fd2,7,48651.94534229629
+centroid EMA++,4,bfa51e1fd2,8,48632.442429406125
+centroid EMA++,4,bfa51e1fd2,9,48610.9433262768
+centroid EMA++,4,bfa51e1fd2,10,48609.84330319423
+e-means + error revival,0,97976f4014,1,50167.283639379464
+e-means + error revival,0,97976f4014,2,49851.482417376326
+e-means + error revival,0,97976f4014,3,49561.66459348357
+e-means + error revival,0,97976f4014,4,49283.882044116355
+e-means + error revival,0,97976f4014,5,48982.5158035946
+e-means + error revival,0,97976f4014,6,48807.59852436712
+e-means + error revival,0,97976f4014,7,48695.545727707424
+e-means + error revival,0,97976f4014,8,48651.375728336265
+e-means + error revival,0,97976f4014,9,48642.6630665692
+e-means + error revival,0,97976f4014,10,48640.714997260446
+e-means + error revival,1,97976f4014,1,50361.65195367572
+e-means + error revival,1,97976f4014,2,49866.551908313624
+e-means + error revival,1,97976f4014,3,49550.605626386234
+e-means + error revival,1,97976f4014,4,49211.38735336753
+e-means + error revival,1,97976f4014,5,48902.957764056395
+e-means + error revival,1,97976f4014,6,48729.33316897856
+e-means + error revival,1,97976f4014,7,48634.46101323994
+e-means + error revival,1,97976f4014,8,48589.53039321879
+e-means + error revival,1,97976f4014,9,48577.82912135803
+e-means + error revival,1,97976f4014,10,48575.03009033771
+e-means + error revival,2,97976f4014,1,50268.41198845025
+e-means + error revival,2,97976f4014,2,49839.5722793278
+e-means + error revival,2,97976f4014,3,49588.20345517933
+e-means + error revival,2,97976f4014,4,49326.35788040873
+e-means + error revival,2,97976f4014,5,49061.24651355592
+e-means + error revival,2,97976f4014,6,48823.0468286694
+e-means + error revival,2,97976f4014,7,48713.381474326816
+e-means + error revival,2,97976f4014,8,48658.58186723988
+e-means + error revival,2,97976f4014,9,48647.80304356949
+e-means + error revival,2,97976f4014,10,48647.572789288664
+e-means + error revival,3,97976f4014,1,50235.04966695134
+e-means + error revival,3,97976f4014,2,49904.184830131635
+e-means + error revival,3,97976f4014,3,49464.05195698641
+e-means + error revival,3,97976f4014,4,49202.36271392028
+e-means + error revival,3,97976f4014,5,48985.84230246798
+e-means + error revival,3,97976f4014,6,48790.12679512974
+e-means + error revival,3,97976f4014,7,48651.08036746834
+e-means + error revival,3,97976f4014,8,48593.584680962835
+e-means + error revival,3,97976f4014,9,48581.65302760373
+e-means + error revival,3,97976f4014,10,48580.69969673308
+e-means + error revival,4,97976f4014,1,50210.74365237186
+e-means + error revival,4,97976f4014,2,49874.21316272258
+e-means + error revival,4,97976f4014,3,49554.66432163229
+e-means + error revival,4,97976f4014,4,49201.454558338846
+e-means + error revival,4,97976f4014,5,49003.38206548288
+e-means + error revival,4,97976f4014,6,48783.306543601335
+e-means + error revival,4,97976f4014,7,48676.56710377084
+e-means + error revival,4,97976f4014,8,48626.471671062085
+e-means + error revival,4,97976f4014,9,48619.798064168834
+e-means + error revival,4,97976f4014,10,48617.03026853005
+"e-means, count revival every batch",0,962e5ebda9,1,50188.582177495526
+"e-means, count revival every batch",0,962e5ebda9,2,49841.295580462196
+"e-means, count revival every batch",0,962e5ebda9,3,49528.89581794262
+"e-means, count revival every batch",0,962e5ebda9,4,49233.35929510075
+"e-means, count revival every batch",0,962e5ebda9,5,48956.56681234622
+"e-means, count revival every batch",0,962e5ebda9,6,48765.43900355784
+"e-means, count revival every batch",0,962e5ebda9,7,48663.465355406275
+"e-means, count revival every batch",0,962e5ebda9,8,48614.89199402207
+"e-means, count revival every batch",0,962e5ebda9,9,48603.03883201383
+"e-means, count revival every batch",0,962e5ebda9,10,48602.11901550297
+"e-means, count revival every batch",1,962e5ebda9,1,50311.583881538434
+"e-means, count revival every batch",1,962e5ebda9,2,49881.657625397325
+"e-means, count revival every batch",1,962e5ebda9,3,49575.64779403377
+"e-means, count revival every batch",1,962e5ebda9,4,49220.5044418818
+"e-means, count revival every batch",1,962e5ebda9,5,48973.24107727317
+"e-means, count revival every batch",1,962e5ebda9,6,48740.63865833024
+"e-means, count revival every batch",1,962e5ebda9,7,48633.96919477763
+"e-means, count revival every batch",1,962e5ebda9,8,48611.1221602975
+"e-means, count revival every batch",1,962e5ebda9,9,48593.544877966706
+"e-means, count revival every batch",1,962e5ebda9,10,48593.708488625976
+"e-means, count revival every batch",2,962e5ebda9,1,50220.73003144715
+"e-means, count revival every batch",2,962e5ebda9,2,49823.84163373546
+"e-means, count revival every batch",2,962e5ebda9,3,49532.17461156738
+"e-means, count revival every batch",2,962e5ebda9,4,49213.49531615204
+"e-means, count revival every batch",2,962e5ebda9,5,48983.88970929444
+"e-means, count revival every batch",2,962e5ebda9,6,48779.03112704314
+"e-means, count revival every batch",2,962e5ebda9,7,48673.51774319336
+"e-means, count revival every batch",2,962e5ebda9,8,48618.72932659625
+"e-means, count revival every batch",2,962e5ebda9,9,48607.41233576095
+"e-means, count revival every batch",2,962e5ebda9,10,48602.57454008528
+"e-means, count revival every batch",3,962e5ebda9,1,50200.203799080664
+"e-means, count revival every batch",3,962e5ebda9,2,49824.172748017154
+"e-means, count revival every batch",3,962e5ebda9,3,49515.88121777189
+"e-means, count revival every batch",3,962e5ebda9,4,49242.523389795206
+"e-means, count revival every batch",3,962e5ebda9,5,48949.34666612063
+"e-means, count revival every batch",3,962e5ebda9,6,48711.86791258677
+"e-means, count revival every batch",3,962e5ebda9,7,48597.33180939905
+"e-means, count revival every batch",3,962e5ebda9,8,48551.523615454906
+"e-means, count revival every batch",3,962e5ebda9,9,48547.10120946342
+"e-means, count revival every batch",3,962e5ebda9,10,48545.92633140932
+"e-means, count revival every batch",4,962e5ebda9,1,50199.07085976375
+"e-means, count revival every batch",4,962e5ebda9,2,49808.08521803998
+"e-means, count revival every batch",4,962e5ebda9,3,49537.4995978373
+"e-means, count revival every batch",4,962e5ebda9,4,49220.34267647916
+"e-means, count revival every batch",4,962e5ebda9,5,48950.47805040821
+"e-means, count revival every batch",4,962e5ebda9,6,48738.21291041033
+"e-means, count revival every batch",4,962e5ebda9,7,48648.55647158269
+"e-means, count revival every batch",4,962e5ebda9,8,48608.811122198415
+"e-means, count revival every batch",4,962e5ebda9,9,48599.49210183209
+"e-means, count revival every batch",4,962e5ebda9,10,48597.061284812764
+"centroid EMA+, count revival every batch",0,8f907277db,1,49892.72142551819
+"centroid EMA+, count revival every batch",0,8f907277db,2,49614.26477506134
+"centroid EMA+, count revival every batch",0,8f907277db,3,49372.14740115948
+"centroid EMA+, count revival every batch",0,8f907277db,4,49112.32596220228
+"centroid EMA+, count revival every batch",0,8f907277db,5,48915.15286510096
+"centroid EMA+, count revival every batch",0,8f907277db,6,48783.61851935421
+"centroid EMA+, count revival every batch",0,8f907277db,7,48699.96297439671
+"centroid EMA+, count revival every batch",0,8f907277db,8,48649.73326567721
+"centroid EMA+, count revival every batch",0,8f907277db,9,48633.62448820012
+"centroid EMA+, count revival every batch",0,8f907277db,10,48632.70118973729
+"centroid EMA+, count revival every batch",1,8f907277db,1,49999.05592216766
+"centroid EMA+, count revival every batch",1,8f907277db,2,49711.097878741
+"centroid EMA+, count revival every batch",1,8f907277db,3,49355.22328468002
+"centroid EMA+, count revival every batch",1,8f907277db,4,49142.44916227419
+"centroid EMA+, count revival every batch",1,8f907277db,5,48956.12578958466
+"centroid EMA+, count revival every batch",1,8f907277db,6,48781.65503364715
+"centroid EMA+, count revival every batch",1,8f907277db,7,48672.54792848502
+"centroid EMA+, count revival every batch",1,8f907277db,8,48636.526826198744
+"centroid EMA+, count revival every batch",1,8f907277db,9,48624.40103965565
+"centroid EMA+, count revival every batch",1,8f907277db,10,48620.12649533334
+"centroid EMA+, count revival every batch",2,8f907277db,1,50050.57657514639
+"centroid EMA+, count revival every batch",2,8f907277db,2,49640.21007920847
+"centroid EMA+, count revival every batch",2,8f907277db,3,49357.84989314456
+"centroid EMA+, count revival every batch",2,8f907277db,4,49134.9192412078
+"centroid EMA+, count revival every batch",2,8f907277db,5,48939.80964247978
+"centroid EMA+, count revival every batch",2,8f907277db,6,48753.302679352644
+"centroid EMA+, count revival every batch",2,8f907277db,7,48693.841990461115
+"centroid EMA+, count revival every batch",2,8f907277db,8,48652.769385181586
+"centroid EMA+, count revival every batch",2,8f907277db,9,48641.74821490432
+"centroid EMA+, count revival every batch",2,8f907277db,10,48637.29192227842
+"centroid EMA+, count revival every batch",3,8f907277db,1,49973.76813362251
+"centroid EMA+, count revival every batch",3,8f907277db,2,49610.11963924863
+"centroid EMA+, count revival every batch",3,8f907277db,3,49350.90128826721
+"centroid EMA+, count revival every batch",3,8f907277db,4,49131.34137954449
+"centroid EMA+, count revival every batch",3,8f907277db,5,48962.76207943071
+"centroid EMA+, count revival every batch",3,8f907277db,6,48798.04102364305
+"centroid EMA+, count revival every batch",3,8f907277db,7,48707.10951339876
+"centroid EMA+, count revival every batch",3,8f907277db,8,48666.31888676188
+"centroid EMA+, count revival every batch",3,8f907277db,9,48657.60337634791
+"centroid EMA+, count revival every batch",3,8f907277db,10,48659.69652456465
+"centroid EMA+, count revival every batch",4,8f907277db,1,49882.597208226085
+"centroid EMA+, count revival every batch",4,8f907277db,2,49619.66380621278
+"centroid EMA+, count revival every batch",4,8f907277db,3,49345.29511726737
+"centroid EMA+, count revival every batch",4,8f907277db,4,49148.28631808018
+"centroid EMA+, count revival every batch",4,8f907277db,5,48942.91153098205
+"centroid EMA+, count revival every batch",4,8f907277db,6,48778.9047807946
+"centroid EMA+, count revival every batch",4,8f907277db,7,48678.92215617813
+"centroid EMA+, count revival every batch",4,8f907277db,8,48637.46387998896
+"centroid EMA+, count revival every batch",4,8f907277db,9,48621.507333891124
+"centroid EMA+, count revival every batch",4,8f907277db,10,48619.22135807306
+"mini-batch k-means, no revival",0,f189e11e45,1,49782.15191696061
+"mini-batch k-means, no revival",0,f189e11e45,2,49451.04400268421
+"mini-batch k-means, no revival",0,f189e11e45,3,49325.48440309152
+"mini-batch k-means, no revival",0,f189e11e45,4,49255.7472568053
+"mini-batch k-means, no revival",0,f189e11e45,5,49212.09072375169
+"mini-batch k-means, no revival",0,f189e11e45,6,49182.593552373924
+"mini-batch k-means, no revival",0,f189e11e45,7,49159.55666068674
+"mini-batch k-means, no revival",0,f189e11e45,8,49141.09006568803
+"mini-batch k-means, no revival",0,f189e11e45,9,49126.65914847796
+"mini-batch k-means, no revival",0,f189e11e45,10,49115.13610030238
+"mini-batch k-means, no revival",1,f189e11e45,1,49829.196780820894
+"mini-batch k-means, no revival",1,f189e11e45,2,49535.249150180236
+"mini-batch k-means, no revival",1,f189e11e45,3,49422.249221611404
+"mini-batch k-means, no revival",1,f189e11e45,4,49363.29087113861
+"mini-batch k-means, no revival",1,f189e11e45,5,49323.69533419645
+"mini-batch k-means, no revival",1,f189e11e45,6,49296.66467897497
+"mini-batch k-means, no revival",1,f189e11e45,7,49276.86508975803
+"mini-batch k-means, no revival",1,f189e11e45,8,49261.23374837309
+"mini-batch k-means, no revival",1,f189e11e45,9,49248.61829069456
+"mini-batch k-means, no revival",1,f189e11e45,10,49237.33895256767
+"mini-batch k-means, no revival",2,f189e11e45,1,49812.71155670041
+"mini-batch k-means, no revival",2,f189e11e45,2,49513.18655023402
+"mini-batch k-means, no revival",2,f189e11e45,3,49401.11958868494
+"mini-batch k-means, no revival",2,f189e11e45,4,49338.9588009429
+"mini-batch k-means, no revival",2,f189e11e45,5,49300.50197736017
+"mini-batch k-means, no revival",2,f189e11e45,6,49272.88724831958
+"mini-batch k-means, no revival",2,f189e11e45,7,49252.06642282595
+"mini-batch k-means, no revival",2,f189e11e45,8,49236.25163587149
+"mini-batch k-means, no revival",2,f189e11e45,9,49223.207402869564
+"mini-batch k-means, no revival",2,f189e11e45,10,49212.336956865576
+"mini-batch k-means, no revival",3,f189e11e45,1,49743.57270699937
+"mini-batch k-means, no revival",3,f189e11e45,2,49458.63789132567
+"mini-batch k-means, no revival",3,f189e11e45,3,49344.93156656152
+"mini-batch k-means, no revival",3,f189e11e45,4,49286.221435520005
+"mini-batch k-means, no revival",3,f189e11e45,5,49251.27332239422
+"mini-batch k-means, no revival",3,f189e11e45,6,49226.274568864705
+"mini-batch k-means, no revival",3,f189e11e45,7,49207.83808316724
+"mini-batch k-means, no revival",3,f189e11e45,8,49194.3440076723
+"mini-batch k-means, no revival",3,f189e11e45,9,49182.656326531316
+"mini-batch k-means, no revival",3,f189e11e45,10,49172.33186411041
+"mini-batch k-means, no revival",4,f189e11e45,1,49761.986045010104
+"mini-batch k-means, no revival",4,f189e11e45,2,49458.36321279496
+"mini-batch k-means, no revival",4,f189e11e45,3,49346.36838862486
+"mini-batch k-means, no revival",4,f189e11e45,4,49286.64419901715
+"mini-batch k-means, no revival",4,f189e11e45,5,49249.43046382037
+"mini-batch k-means, no revival",4,f189e11e45,6,49221.71609368385
+"mini-batch k-means, no revival",4,f189e11e45,7,49199.97928484895
+"mini-batch k-means, no revival",4,f189e11e45,8,49182.1131448465
+"mini-batch k-means, no revival",4,f189e11e45,9,49167.61507535317
+"mini-batch k-means, no revival",4,f189e11e45,10,49155.57600537485
+"e-means, no revival",0,13906cf992,1,50529.25176249572
+"e-means, no revival",0,13906cf992,2,50222.312101548894
+"e-means, no revival",0,13906cf992,3,49931.501245449246
+"e-means, no revival",0,13906cf992,4,49688.727975369344
+"e-means, no revival",0,13906cf992,5,49466.20881425434
+"e-means, no revival",0,13906cf992,6,49290.2069827439
+"e-means, no revival",0,13906cf992,7,49176.531131114745
+"e-means, no revival",0,13906cf992,8,49131.41621114495
+"e-means, no revival",0,13906cf992,9,49121.48703778942
+"e-means, no revival",0,13906cf992,10,49117.55851776599
+"e-means, no revival",1,13906cf992,1,50605.051268089795
+"e-means, no revival",1,13906cf992,2,50247.91272589863
+"e-means, no revival",1,13906cf992,3,49965.21593467623
+"e-means, no revival",1,13906cf992,4,49738.4190291642
+"e-means, no revival",1,13906cf992,5,49512.51881745394
+"e-means, no revival",1,13906cf992,6,49279.81578851974
+"e-means, no revival",1,13906cf992,7,49165.47618026971
+"e-means, no revival",1,13906cf992,8,49116.85376685087
+"e-means, no revival",1,13906cf992,9,49098.67149811705
+"e-means, no revival",1,13906cf992,10,49091.10821597804
+"e-means, no revival",2,13906cf992,1,50457.55618041546
+"e-means, no revival",2,13906cf992,2,50173.254084216525
+"e-means, no revival",2,13906cf992,3,49969.76441126899
+"e-means, no revival",2,13906cf992,4,49645.38552142977
+"e-means, no revival",2,13906cf992,5,49420.312817991995
+"e-means, no revival",2,13906cf992,6,49189.02331801653
+"e-means, no revival",2,13906cf992,7,49094.30845687378
+"e-means, no revival",2,13906cf992,8,49025.414520623046
+"e-means, no revival",2,13906cf992,9,49010.32748502843
+"e-means, no revival",2,13906cf992,10,49008.947352970135
+"e-means, no revival",3,13906cf992,1,50425.23188079367
+"e-means, no revival",3,13906cf992,2,50193.59558976955
+"e-means, no revival",3,13906cf992,3,49945.31518163122
+"e-means, no revival",3,13906cf992,4,49658.57940115377
+"e-means, no revival",3,13906cf992,5,49364.357843734266
+"e-means, no revival",3,13906cf992,6,49196.52485653012
+"e-means, no revival",3,13906cf992,7,49074.89719669265
+"e-means, no revival",3,13906cf992,8,49028.76553874576
+"e-means, no revival",3,13906cf992,9,49017.01628314852
+"e-means, no revival",3,13906cf992,10,49014.63790513406
+"e-means, no revival",4,13906cf992,1,50416.22970666314
+"e-means, no revival",4,13906cf992,2,50164.870916880915
+"e-means, no revival",4,13906cf992,3,49912.65264661783
+"e-means, no revival",4,13906cf992,4,49612.294684426546
+"e-means, no revival",4,13906cf992,5,49336.652805041376
+"e-means, no revival",4,13906cf992,6,49159.49381769201
+"e-means, no revival",4,13906cf992,7,49038.55238801615
+"e-means, no revival",4,13906cf992,8,48988.427183856285
+"e-means, no revival",4,13906cf992,9,48968.32399632348
+"e-means, no revival",4,13906cf992,10,48965.62520394506
+"centroid EMA+, no revival",0,a432e0de8e,1,50107.341482826785
+"centroid EMA+, no revival",0,a432e0de8e,2,49786.75445324214
+"centroid EMA+, no revival",0,a432e0de8e,3,49515.287244186075
+"centroid EMA+, no revival",0,a432e0de8e,4,49293.25207169019
+"centroid EMA+, no revival",0,a432e0de8e,5,49081.46812746158
+"centroid EMA+, no revival",0,a432e0de8e,6,48915.584692962955
+"centroid EMA+, no revival",0,a432e0de8e,7,48840.569162280466
+"centroid EMA+, no revival",0,a432e0de8e,8,48789.40913770189
+"centroid EMA+, no revival",0,a432e0de8e,9,48776.00534287169
+"centroid EMA+, no revival",0,a432e0de8e,10,48768.77793036915
+"centroid EMA+, no revival",1,a432e0de8e,1,50271.10065246369
+"centroid EMA+, no revival",1,a432e0de8e,2,49874.86583544206
+"centroid EMA+, no revival",1,a432e0de8e,3,49531.23841679121
+"centroid EMA+, no revival",1,a432e0de8e,4,49243.87057930229
+"centroid EMA+, no revival",1,a432e0de8e,5,49061.08976813617
+"centroid EMA+, no revival",1,a432e0de8e,6,48939.52423844016
+"centroid EMA+, no revival",1,a432e0de8e,7,48820.18686829475
+"centroid EMA+, no revival",1,a432e0de8e,8,48781.39175019441
+"centroid EMA+, no revival",1,a432e0de8e,9,48769.26684816186
+"centroid EMA+, no revival",1,a432e0de8e,10,48770.30161469537
+"centroid EMA+, no revival",2,a432e0de8e,1,50163.9423432335
+"centroid EMA+, no revival",2,a432e0de8e,2,49773.024053173416
+"centroid EMA+, no revival",2,a432e0de8e,3,49471.24719286145
+"centroid EMA+, no revival",2,a432e0de8e,4,49234.929996720675
+"centroid EMA+, no revival",2,a432e0de8e,5,49035.95198855607
+"centroid EMA+, no revival",2,a432e0de8e,6,48905.64481761657
+"centroid EMA+, no revival",2,a432e0de8e,7,48808.089683107886
+"centroid EMA+, no revival",2,a432e0de8e,8,48766.36869986825
+"centroid EMA+, no revival",2,a432e0de8e,9,48753.87156375551
+"centroid EMA+, no revival",2,a432e0de8e,10,48754.80085552232
+"centroid EMA+, no revival",3,a432e0de8e,1,50130.49048060761
+"centroid EMA+, no revival",3,a432e0de8e,2,49783.098633499394
+"centroid EMA+, no revival",3,a432e0de8e,3,49493.28954686414
+"centroid EMA+, no revival",3,a432e0de8e,4,49275.434967927555
+"centroid EMA+, no revival",3,a432e0de8e,5,49062.082952820456
+"centroid EMA+, no revival",3,a432e0de8e,6,48952.89476281695
+"centroid EMA+, no revival",3,a432e0de8e,7,48849.34601074618
+"centroid EMA+, no revival",3,a432e0de8e,8,48799.08679377243
+"centroid EMA+, no revival",3,a432e0de8e,9,48780.220598162305
+"centroid EMA+, no revival",3,a432e0de8e,10,48777.283020406816
+"centroid EMA+, no revival",4,a432e0de8e,1,50136.60894799468
+"centroid EMA+, no revival",4,a432e0de8e,2,49789.62048219406
+"centroid EMA+, no revival",4,a432e0de8e,3,49475.698649682265
+"centroid EMA+, no revival",4,a432e0de8e,4,49213.08539802706
+"centroid EMA+, no revival",4,a432e0de8e,5,49028.19161225493
+"centroid EMA+, no revival",4,a432e0de8e,6,48894.72561189228
+"centroid EMA+, no revival",4,a432e0de8e,7,48802.38881368906
+"centroid EMA+, no revival",4,a432e0de8e,8,48756.36943534063
+"centroid EMA+, no revival",4,a432e0de8e,9,48740.441172361956
+"centroid EMA+, no revival",4,a432e0de8e,10,48739.10953776554
